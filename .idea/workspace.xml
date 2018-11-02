@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed4d2ffe-928e-47d1-a1f4-94f96e19dd65" name="Default Changelist" comment="Add HelloGit.html, HelloGit.iml">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="ed4d2ffe-928e-47d1-a1f4-94f96e19dd65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloGit/YesGit.html" beforeDir="false" afterPath="$PROJECT_DIR$/HelloGit/YesGit.html" afterDir="false" />
     </list>
     <list id="73e86b66-f513-42da-a498-4ef05e31f381" name="Add HelloGit.html, HelloGit.iml" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -79,14 +77,14 @@
           <entry key="html" value="47" />
           <entry key="md" value="18" />
           <entry key="sql" value="110" />
-          <entry key="txt" value="119" />
+          <entry key="txt" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="47" />
           <entry key="Markdown" value="18" />
-          <entry key="PLAIN_TEXT" value="119" />
+          <entry key="PLAIN_TEXT" value="141" />
           <entry key="SQL" value="53" />
           <entry key="Scratch" value="61" />
         </counts>
@@ -107,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloGit/YesGit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="198">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -185,8 +183,8 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541126433575" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541126497570" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -327,7 +325,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541064147307</updated>
-      <workItem from="1541064148586" duration="9316000" />
+      <workItem from="1541064148586" duration="9571000" />
     </task>
     <task id="LOCAL-00001" summary="Update readme.md and add misc.xml, modules.xml, StartProject.iml, vcs.xml">
       <created>1541064255023</created>
@@ -350,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541120395828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update YesGit.html">
+      <created>1541126495513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541126495513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9316000" />
+    <option name="totallyTimeSpent" value="9571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,19 +372,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="213" y="146" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SQL Generator" weight="0.32977462" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.8589552" weight="0.32977462" />
-      <window_info anchor="bottom" id="Database Console" visible="true" weight="0.32977462" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.8589552" visible="true" weight="0.32977462" />
+      <window_info anchor="bottom" id="Database Console" weight="0.32977462" />
       <window_info anchor="bottom" id="Terminal" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.14104478" side_tool="true" weight="0.32977462" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -435,7 +439,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update readme.md and add misc.xml, modules.xml, StartProject.iml, vcs.xml" />
     <MESSAGE value="Add HelloGit.html, HelloGit.iml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HelloGit.html, HelloGit.iml" />
+    <MESSAGE value="Update YesGit.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update YesGit.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/StartProject.iml">
@@ -492,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloGit/YesGit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="198">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
