@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed4d2ffe-928e-47d1-a1f4-94f96e19dd65" name="Default Changelist" comment="">
+    <list default="true" id="ed4d2ffe-928e-47d1-a1f4-94f96e19dd65" name="Default Changelist" comment="Update readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="73e86b66-f513-42da-a498-4ef05e31f381" name="Add HelloGit.html, HelloGit.iml" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -78,14 +77,14 @@
           <entry key="html" value="74" />
           <entry key="md" value="22" />
           <entry key="sql" value="110" />
-          <entry key="txt" value="163" />
+          <entry key="txt" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="74" />
           <entry key="Markdown" value="22" />
-          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="PLAIN_TEXT" value="176" />
           <entry key="SQL" value="53" />
           <entry key="Scratch" value="61" />
         </counts>
@@ -168,9 +167,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="146" />
+    <option name="x" value="99" />
+    <option name="y" value="127" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -206,7 +211,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541127124217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541127486332" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -348,7 +353,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541064147307</updated>
-      <workItem from="1541064148586" duration="10152000" />
+      <workItem from="1541064148586" duration="10393000" />
     </task>
     <task id="LOCAL-00001" summary="Update readme.md and add misc.xml, modules.xml, StartProject.iml, vcs.xml">
       <created>1541064255023</created>
@@ -399,11 +404,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541126911841</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update readme">
+      <created>1541127163041</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541127163041</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10152000" />
+    <option name="totallyTimeSpent" value="10393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,19 +427,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="146" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="99" y="127" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19029851" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SQL Generator" weight="0.32977462" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.8589552" visible="true" weight="0.32977462" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.8589552" visible="true" weight="0.32977462" />
       <window_info anchor="bottom" id="Database Console" weight="0.32977462" />
       <window_info anchor="bottom" id="Terminal" weight="0.32977462" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.14104478" side_tool="true" weight="0.32977462" />
@@ -442,8 +453,8 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" visible="true" weight="0.22985074" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" weight="0.22985074" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32910448" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -486,7 +497,8 @@
     <MESSAGE value="Add HelloGit.html, HelloGit.iml" />
     <MESSAGE value="Update YesGit.html" />
     <MESSAGE value="Add AllISWell.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add AllISWell.html" />
+    <MESSAGE value="Update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/StartProject.iml">
